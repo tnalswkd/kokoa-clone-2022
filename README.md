@@ -7,4 +7,4 @@
 * 사용언어
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<img src= "https://user-images.githubusercontent.com/100072487/206162330-b3dadd68-b43e-4118-ac68-4c49b55a6f8b.gif" />
+<img width= "80%" src= "https://user-images.githubusercontent.com/100072487/206163711-c9c9cf50-2bef-49ae-955a-3d0d32533a9b.gif" />
